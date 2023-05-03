@@ -23,6 +23,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/StringBool.srv"
   "srv/StringNone.srv"
+  "srv/StringInt.srv"
   "srv/StringPose.srv"
   "srv/StringString.srv"
   "srv/NoneString.srv"

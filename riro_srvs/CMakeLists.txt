@@ -32,6 +32,7 @@ add_service_files(
   String_String.srv
   None_String.srv
   Bool_None.srv
+  Pose_Bool.srv
 )
 
 generate_messages(

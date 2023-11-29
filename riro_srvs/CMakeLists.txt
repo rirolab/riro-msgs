@@ -30,6 +30,8 @@ add_service_files(
   String_None.srv
   String_Pose.srv
   String_String.srv
+  Delivery_Ticket.srv
+  Delivery_None.srv
   None_String.srv
   Bool_None.srv
   Pose_Bool.srv

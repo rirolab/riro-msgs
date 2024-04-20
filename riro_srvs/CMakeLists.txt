@@ -31,6 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/NoneString.srv"
   "srv/BoolNone.srv"
   "srv/NoneInt.srv"
+  "srv/IntNone.srv"
   "srv/IntPose.srv"
   "srv/StringPoseInt.srv"
   "srv/NonePoseInt.srv"

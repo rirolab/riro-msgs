@@ -1,0 +1,5 @@
+string loader
+int16 idx
+bool is_empty
+geometry_msgs/Pose pose
+---

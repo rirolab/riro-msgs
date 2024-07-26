@@ -36,7 +36,11 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/StringPoseInt.srv"
   "srv/NonePoseInt.srv"
   "srv/NonePose.srv"
+  "srv/NoneArucoArray.srv"
   "srv/IntPoseInt.srv"
+  "srv/PortstateNone.srv"
+  "srv/PortstatePose.srv"
+  "srv/PoseNone.srv"
   DEPENDENCIES geometry_msgs
   DEPENDENCIES action_msgs
  )
